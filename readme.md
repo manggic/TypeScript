@@ -1,4 +1,10 @@
+current watching time = 3:07:55
 
+<!-- command -->
 
+tsc src/index.ts
 
-current watching time = 2:23:50
+<!-- watch mode -->
+
+tsc -W
+ 
