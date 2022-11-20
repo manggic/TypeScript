@@ -1,4 +1,4 @@
-current watching time = 3:15:17
+current watching time = 3:26:03
 
 <!-- command -->
 
@@ -8,3 +8,8 @@ tsc src/index.ts
 
 tsc -W
  
+
+
+public: Acessible everywhere  <br>
+private: Only accessible inside the class <br>
+protected: Accessible inside the inherited class <br>
