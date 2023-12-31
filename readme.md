@@ -1,4 +1,4 @@
-current watching time = 2:44:22
+current watching time = 3:42:22
 
 
 ```
@@ -36,6 +36,9 @@ public: Acessible everywhere <br>
 private: Only accessible inside the class <br>
 protected: Accessible inside the inherited class <br>
 
-We cannot create obj of abstract class
+We cannot create an object from an abstract class
+we can inherit properties from it in other class and can create obj of it
+
+
 
 <T, > - this is generics code not a tag
